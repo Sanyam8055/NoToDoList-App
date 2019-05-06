@@ -2,6 +2,15 @@
 
 Keeping note of what not to do
 
+## UI :
+![](SS1.png)
+
+## Adding notes :
+![](SS2.png)
+
+## Listing notes :
+![](SS3.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
