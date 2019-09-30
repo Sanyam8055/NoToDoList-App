@@ -1,9 +1,6 @@
 # no_todo_app
 
-Keeping note of what not to do
-
-## UI :
-![](SS1.png)
+# Keeping note of what not to do
 
 ## Adding notes :
 ![](SS2.png)
